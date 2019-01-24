@@ -5,7 +5,6 @@ A _~~useless~~_ browser extension that outlines any HTML element that contains i
 
 
 ### Example:
-
 ![alt text](https://i.imgur.com/vNr2bJy.png)
 
 ## Install
