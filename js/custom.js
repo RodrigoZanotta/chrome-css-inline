@@ -1,4 +1,4 @@
-var elements = document.querySelectorAll('*[style]:not(body)');
+var elements = document.querySelectorAll('body *[style]');
 
 for (var i = 0; i < elements.length; i++) {
 

@@ -1,0 +1,6 @@
+.bb-line {
+    /*border: 1px solid #e74c3c !important;
+    -webkit-box-shadow:inset 0px 0px 0px 1px #e74c3c !important;
+    box-shadow:inset 0px 0px 0px 1px #e74c3c !important;*/
+    box-shadow: 0 0 5px #2980b9 inset !important;
+}
