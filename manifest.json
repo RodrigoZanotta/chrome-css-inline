@@ -1,6 +1,6 @@
 {
-  "name": "Chrome Extension CSS Inline (WiP)",
-  "version": "1.0",
+  "name": "Inline CSS Detector",
+  "version": "1.0.0",
   "description": "An extension that outlines any HTML element that contains inline CSS",
   "permissions": ["activeTab", "tabs", "declarativeContent", "storage"],
   "background": {
