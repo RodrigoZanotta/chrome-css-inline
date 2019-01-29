@@ -8,4 +8,4 @@ A _~~useless~~_ browser extension that outlines any HTML element that contains i
 ![alt text](https://i.imgur.com/vNr2bJy.png)
 
 ## Install
-[Google Chrome](https://google.com)
+[Google Chrome](https://chrome.google.com/webstore/detail/inline-css-detector/hckoijhjlgpbbmhmchbldfkdggfabico)
